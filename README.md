@@ -15,7 +15,7 @@ This project is built using core web technologies, including HTML for structure 
 
 How to Use:
 
-To get started with ApexPortal, clone or download the repository to your local machine. Open the index.html file in any browser to preview the template. Replace the placeholder images and content with your own to customize the site for your business. The website.css file is well-structured, making it easy to update colors, fonts, and layouts to match your branding. No additional setup or external dependencies are required, making it quick and simple to deploy.
+To get started with ApexPortal, clone or download the repository to your local machine. Open the index.html file in any browser to preview the template. Replace the placeholder images and content with your own to customize the site for your business. The style.css file is well-structured, making it easy to update colors, fonts, and layouts to match your branding. No additional setup or external dependencies are required, making it quick and simple to deploy.
 
 Future Enhancements:
 
